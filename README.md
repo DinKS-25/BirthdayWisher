@@ -1,4 +1,7 @@
 # BirthdayWisher
+
+[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+
 .net console App which uses microsoft Graph API to Wish them with A birthday Email
 
 HOW TO INITIALIZE 
@@ -15,3 +18,5 @@ Step 3: Add Secrets in secret store of ur application (use below command)
     dotnet user-secrets init
     
     dotnet user-secrets set settings:clientSecret <client-secret>
+    
+    
